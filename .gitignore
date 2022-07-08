@@ -2,3 +2,8 @@
 AssemblyScript/node_modules/
 AssemblyScript/build/
 AssemblyScript/neardev/
+
+# Rust
+Rust/Cargo.lock
+Rust/target/
+Rust/neardev/
